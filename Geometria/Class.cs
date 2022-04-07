@@ -32,6 +32,7 @@ namespace Geometria
             int perimetroRettangolo = 2 * (baseRettangolo + altezzaRettangolo);
             return perimetroRettangolo;
         }
+
     }
 
 
